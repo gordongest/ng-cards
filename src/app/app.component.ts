@@ -14,7 +14,7 @@ export class AppComponent {
     },
     { title: 'snowy mountain',
       content: 'look at this snowy boi',
-      username: 'mntnlvr',
+      username: 'mtnlvr',
       imgUrl: 'assets/mountain.jpeg'
     },
     { title: 'mountain biking',
